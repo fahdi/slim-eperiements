@@ -1,0 +1,12 @@
+{
+    "name": "fahadmurtaza/slim-crud",
+    "authors": [
+        {
+            "name": "Fahad Murtaza",
+            "email": "fahdim@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.8"
+    }
+}
