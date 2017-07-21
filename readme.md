@@ -1,11 +1,13 @@
-# slim api
+# Slim API
 
 This is a simple crud api build on slim framework 
 
 # Setup
 
-Clone it and run
+Clone this repo and go into `src/public`
 
-```php
+Run the follwing command
+
+```sh
 php -S localhost:8080
 ```
