@@ -6,7 +6,9 @@ This is a simple crud api build on slim framework
 
 Clone this repo and go into `src/public`
 
-Run the follwing command
+Copy `config/db.sample.php` and make changes according to your database
+
+Run the following command
 
 ```sh
 php -S localhost:8080
